@@ -118,8 +118,32 @@ import { Link } from 'react-router-dom'
 </Link>
 ```
 
+### Redirecionando 
 
+```javascript
+import { useHistory } from 'react-router-dom';
+...
+const history = useHistory();
+...
+history.push('/rota');
+```
 
+### useEffect
+
+Executa a função uma única vez assim que o componente é carregado
+
+```javascript
+  useEffect(() => {
+    ...
+    ...
+  }, []);
+```
+
+### Client HTTP
+
+```bash
+npm install axios
+```
 
 # Visual Studio Code
 
