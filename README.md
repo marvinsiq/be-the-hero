@@ -1,9 +1,15 @@
 # Be The Hero
 
-Projeto resultante da Semana OmniStack 11.0.
+Be the hero é uma aplicação para conectar pessoas que tem vontade de ajudar ONGs.  
 
+Interface WEB  
 ![Be The Hero Web](Be-The-Hero-Web.png)
 
+Interface Mobile  
+![Be The Hero Web](Be-The-Hero-Mobile-01.png)
+![Be The Hero Web](Be-The-Hero-Mobile-02.png)
+
+Projeto resultante da Semana OmniStack 11.0 - [Rocketseat](https://rocketseat.com.br/)
 
 ## O Projeto
 
