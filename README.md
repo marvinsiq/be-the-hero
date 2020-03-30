@@ -6,8 +6,8 @@ Interface WEB
 ![Be The Hero Web](Be-The-Hero-Web.png)
 
 Interface Mobile  
-![Be The Hero Web](Be-The-Hero-Mobile-01.png)
-![Be The Hero Web](Be-The-Hero-Mobile-02.png)
+<img src="Be-The-Hero-Mobile-01.png" alt="Be The Hero Web" width="430" />
+<img src="Be-The-Hero-Mobile-02.png" alt="Be The Hero Web" width="430" />
 
 Projeto resultante da Semana OmniStack 11.0 - [Rocketseat](https://rocketseat.com.br/)
 
